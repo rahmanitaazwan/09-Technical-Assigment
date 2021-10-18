@@ -1,0 +1,21 @@
+1. Apa itu CSS Framework?
+CSS Framework sendiri merupakan kumpulan kode CSS yang dapat digunakan untuk mengembangkan website.
+CSS Framework adalah hasil formula codingan website yang telah siap digunakan. 
+Sehingga programmer tidak perlu menghabiskan banyak waktu dan tenaga untuk membuat formula CSS website baru dari awal.
+
+
+2. Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+tidak
+
+
+3. Sebutkan beberapa CSS Framework selain Bootstrap
+-Foundation
+-Bulma
+-Semantic UI
+-Sekeleton
+-Tailwind
+-UIKit
+
+
+4. Bagaimana tata cara penggu
+-install bootstrap npm install bootstrap
